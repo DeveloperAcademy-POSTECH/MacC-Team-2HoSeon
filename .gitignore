@@ -1,3 +1,9 @@
+Build
+
+# fastlane
+Fastlane/report.xml
+Fastlane/test_output
+
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
@@ -88,3 +94,14 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
+
+## CHAT_GPT_KEYS
+*.xcconfig
